@@ -97,4 +97,4 @@ python src/linear_eval.py \
 | --- | --- | --- | --- |
 | AAVAE | CIFAR-10 | [checkpoint](https://aavae.s3.us-east-2.amazonaws.com/checkpoints/aavae_cifar10.ckpt) | 87.14 |
 | AAVAE | STL-10 | [checkpoint](https://aavae.s3.us-east-2.amazonaws.com/checkpoints/aavae_stl10.ckpt) | 84.72 |
-| AAVAE | Imagenet | [checkpoint]() | 51.0 |
+| AAVAE | Imagenet | [checkpoint](https://aavae.s3.us-east-2.amazonaws.com/checkpoints/aavae_imagenet.ckpt) | 51.0 |
